@@ -1,0 +1,121 @@
+{
+  "fecha": "2026-06-12",
+  "fechaLegible": "Viernes 12 de junio de 2026",
+  "actualizado": "2026-06-12T11:00:00Z",
+  "categorias": [
+    {
+      "id": "economia-mundial",
+      "nombre": "Economía Mundial",
+      "emoji": "🌍",
+      "noticias": [
+        {
+          "titular": "La Fed acelera el alza de tasas y Wall Street cae con fuerza",
+          "resumen": "La inflación subyacente en EE.UU. repuntó a 2,9% en mayo y el IPC general sigue sobre 4%. Con un mercado laboral sólido, la Reserva Federal sube tipos más rápido de lo previsto. Wall Street cerró con fuertes caídas.",
+          "fuente": "Bolsamania",
+          "url": "https://www.bolsamania.com/noticias/mercados/wall-street-10-junio-2026-dato-clave-inflacion--22690642.html"
+        },
+        {
+          "titular": "El FMI revisa al alza la inflación global y recorta el crecimiento",
+          "resumen": "El Fondo proyecta inflación mundial de 4,4% en 2026 (antes 3,8%) y crecimiento del PIB global en 3,1%. El conflicto en Medio Oriente actúa como shock de oferta, elevando los riesgos de un escenario de estanflación.",
+          "fuente": "Bankinter",
+          "url": "https://www.bankinter.com/blog/mercados/analisis-fmi-crecimiento"
+        },
+        {
+          "titular": "La crisis en el estrecho de Ormuz dispara el petróleo",
+          "resumen": "El cierre del estrecho perturbó los mercados energéticos. Se proyecta que el Brent promedie US$94 por barril en 2026. En un escenario severo, el crecimiento global podría caer hasta 1,3%.",
+          "fuente": "La Jornada",
+          "url": "https://www.jornada.com.mx/2026/06/12/economia/013n1eco"
+        }
+      ]
+    },
+    {
+      "id": "economia-chile",
+      "nombre": "Economía Chile",
+      "emoji": "🇨🇱",
+      "noticias": [
+        {
+          "titular": "La inflación vuelve a presionar tras tocar la meta del Banco Central",
+          "resumen": "La inflación convergió a 2,4% en febrero, bajo la meta de 3%, pero el alza internacional de las gasolinas podría empujarla cerca de 4% anual en los próximos meses. El peso revirtió casi toda su apreciación de inicios de año.",
+          "fuente": "Banco Central",
+          "url": "https://www.bcentral.cl/areas/politica-monetaria/informe-de-politica-monetaria"
+        },
+        {
+          "titular": "La tasa de política monetaria se mantendría en 4,5% hasta diciembre",
+          "resumen": "Las expectativas del mercado apuntan a que el Banco Central no moverá la TPM en lo que resta de 2026, en medio de la incertidumbre por el conflicto en Medio Oriente y su impacto en los precios de la energía.",
+          "fuente": "Emol Economía",
+          "url": "https://www.emol.com/economia/"
+        }
+      ]
+    },
+    {
+      "id": "inmobiliario-chile",
+      "nombre": "Inmobiliario Chile",
+      "emoji": "🏠",
+      "noticias": [
+        {
+          "titular": "Tasas hipotecarias en su nivel más bajo desde 2021 gracias al FOGAES",
+          "resumen": "Banco de Chile y Santander ofrecen tasas bajo 3,3% UF en junio gracias a la garantía estatal FOGAES. La tasa promedio nacional está en 4,06% UF, su menor nivel desde diciembre de 2021.",
+          "fuente": "NeatPagos",
+          "url": "https://www.neatpagos.com/blog/articulo/mejor-tasa-credito-hipotecario"
+        },
+        {
+          "titular": "La CChC proyecta el fin de la crisis inmobiliaria para 2026",
+          "resumen": "El gremio estima que las ventas podrían subir entre 20% y 30%, alcanzando unas 60.000 viviendas, si se amplía el subsidio a la tasa hipotecaria para viviendas bajo 4.000 UF. La recuperación sería gradual y liderada por usuarios finales.",
+          "fuente": "La Tercera",
+          "url": "https://www.latercera.com/pulso/noticia/cchc-pronostica-el-fin-de-la-crisis-del-mercado-para-2026-si-es-que-se-amplia-el-subsidio-a-la-tasa/"
+        }
+      ]
+    },
+    {
+      "id": "politica-chile",
+      "nombre": "Política Chile",
+      "emoji": "🏛️",
+      "noticias": [
+        {
+          "titular": "Kast busca relanzar su gobierno tras una breve luna de miel",
+          "resumen": "A tres meses de asumir, el Presidente Kast enfrenta la crisis energética mundial y tropiezos en su promesa de seguridad. Su meta de eliminar el déficit fiscal en cuatro años se complica: Hacienda pidió al Congreso US$6.200 millones adicionales en préstamos.",
+          "fuente": "Diario Financiero",
+          "url": "https://www.df.cl/senal-df/politica/financial-times-el-gobierno-de-derecha-de-chile-busca-un-nuevo-comienzo"
+        },
+        {
+          "titular": "Un Congreso inclinado a la derecha marca el nuevo equilibrio de poder",
+          "resumen": "Tras las elecciones, la Cámara quedó con 61 diputados de Unidad por Chile, 42 de Cambio por Chile, 34 de Chile Grande y Unido y 14 del Partido de la Gente, configurando el escenario legislativo del gobierno de Kast.",
+          "fuente": "El Mostrador",
+          "url": "https://www.elmostrador.cl/politica/2026/01/04/el-ano-en-que-chile-giro-el-eje-de-su-poder-politico/"
+        }
+      ]
+    },
+    {
+      "id": "columna-matamala",
+      "nombre": "Columna en profundidad (Matamala)",
+      "emoji": "✍️",
+      "noticias": [
+        {
+          "titular": "Sin columna nueva hoy — se publican los domingos (#LTDomingo)",
+          "resumen": "Daniel Matamala publica su columna de análisis político principalmente los domingos en La Tercera. Cuando haya una nueva, aparecerá aquí con su resumen. Su última columna disponible: \"¿Colonia o República?\".",
+          "fuente": "La Tercera",
+          "url": "https://www.latercera.com/autor/daniel-matamala/"
+        }
+      ]
+    },
+    {
+      "id": "tecnologia",
+      "nombre": "Tecnología",
+      "emoji": "💻",
+      "noticias": [
+        {
+          "titular": "La IA pasa de asistente a agente autónomo en las empresas",
+          "resumen": "Más de 5.000 ejecutivos analizaron en junio cómo la IA ya no solo responde dudas, sino que ejecuta flujos de trabajo completos, reduciendo costos operativos. La fase empresarial de la IA se consolida en 2026.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/agencias/2026/06/04/la-ia-entra-en-fase-empresarial-mas-de-5000-ejecutivos-analizaran-su-impacto-en-los-negocios/"
+        },
+        {
+          "titular": "IA médica de Microsoft supera a doctores en diagnósticos complejos",
+          "resumen": "El Diagnostic Orchestrator de Microsoft resolvió casos clínicos con 85,5% de precisión, frente al 20% promedio de médicos experimentados, marcando un avance clave en aplicaciones de salud.",
+          "fuente": "Microsoft Source",
+          "url": "https://news.microsoft.com/source/emea/features/asi-evolucionara-la-ia-siete-tendencias-a-seguir-en-2026/?lang=es"
+        }
+      ]
+    }
+  ]
+}

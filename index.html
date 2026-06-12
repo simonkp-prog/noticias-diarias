@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="description" content="Tu resumen diario de noticias de economía, inmobiliario, política y tecnología. Titulares y resúmenes en menos de 50 palabras." />
+  <meta name="theme-color" content="#0f172a" />
+  <title>Noticias Diarias</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>" />
+  <link rel="apple-touch-icon" href="icon-192.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <span class="brand-icon">📰</span>
+        <div class="brand-text">
+          <h1>Noticias Diarias</h1>
+          <p id="fecha" class="fecha">Cargando…</p>
+        </div>
+      </div>
+      <button id="theme-toggle" class="icon-btn" aria-label="Cambiar tema" title="Cambiar tema">🌙</button>
+    </div>
+    <nav id="nav-chips" class="nav-chips" aria-label="Categorías"></nav>
+  </header>
+
+  <main id="contenido" class="contenido">
+    <div class="estado" id="estado">
+      <div class="spinner" aria-hidden="true"></div>
+      <p>Cargando el boletín de hoy…</p>
+    </div>
+  </main>
+
+  <footer class="pie">
+    <p id="actualizado" class="actualizado"></p>
+    <p class="creditos">Resúmenes generados automáticamente · Toca un titular para leer la nota completa</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

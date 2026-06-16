@@ -1,7 +1,7 @@
 {
-  "fecha": "2026-06-15",
-  "fechaLegible": "Lunes 15 de junio de 2026",
-  "actualizado": "2026-06-15T13:45:00Z",
+  "fecha": "2026-06-16",
+  "fechaLegible": "Martes 16 de junio de 2026",
+  "actualizado": "2026-06-16T16:00:00Z",
   "categorias": [
     {
       "id": "economia-mundial",
@@ -9,22 +9,16 @@
       "emoji": "🌍",
       "noticias": [
         {
-          "titular": "EE.UU. e Irán acuerdan reabrir Ormuz y el petróleo se desploma",
-          "resumen": "El acuerdo para reabrir el estrecho de Ormuz hundió los precios del crudo: el Brent cayó 5% a US$82,91 y el WTI 5,5% a US$80,21. Los futuros de Wall Street subieron y las bolsas asiáticas treparon hasta 6% por el mayor apetito de riesgo.",
-          "fuente": "Ámbito",
-          "url": "https://www.ambito.com/economia/acuerdo-eeuu-e-iran-el-petroleo-se-desploma-suben-los-futuros-wall-street-y-bolsas-asiaticas-vuelan-6-n6288812"
+          "titular": "La Fed define su tasa el miércoles: el mercado espera que la mantenga",
+          "resumen": "La Reserva Federal anuncia su decisión el 17 de junio. El mercado anticipa que mantendrá la tasa, aunque varios miembros del comité advierten que podrían necesitarse alzas si la inflación sigue sobre la meta del 2%.",
+          "fuente": "El Espectador",
+          "url": "https://www.elespectador.com/economia/subira-o-bajara-las-tasas-la-fed-los-mercados-apuestan-por-un-alza-en-2026/"
         },
         {
-          "titular": "La Fed mantendría su tasa en 3,50%-3,75% esta semana",
-          "resumen": "El mercado descuenta que la Reserva Federal dejará sin cambios su tasa en el rango 3,50%-3,75%, en una semana clave con la inflación mayorista de EE.UU. y la cumbre del G7 concentrando la atención global.",
-          "fuente": "Ámbito",
-          "url": "https://www.ambito.com/finanzas/semana-clave-los-mercados-se-publica-la-inflacion-mayorista-la-fed-define-tasas-y-el-g7-concentra-la-atencion-global-n6288680"
-        },
-        {
-          "titular": "La OPEP recorta su previsión de demanda mundial de petróleo",
-          "resumen": "La OPEP rebajó a 970.000 barriles diarios su estimación de crecimiento de la demanda global de crudo para 2026, una señal de enfriamiento que se suma a la distensión geopolítica tras el acuerdo en Ormuz.",
-          "fuente": "Ámbito",
-          "url": "https://www.ambito.com/economia/acuerdo-eeuu-e-iran-reabrir-ormuz-el-petroleo-se-desploma-y-suben-los-futuros-wall-street-n6288747"
+          "titular": "El G7 duda de una reapertura rápida del estrecho de Ormuz",
+          "resumen": "Los líderes del G7 desconfían de que el estrecho de Ormuz se reabra tan pronto como promete Trump, lo que mantiene la volatilidad en el mercado del petróleo y la incertidumbre sobre el suministro energético global.",
+          "fuente": "La Jornada",
+          "url": "https://www.jornada.com.mx/noticia/2026/04/29/economia/con-la-presion-del-petroleo-de-fondo-inversionistas-esperan-a-la-fed-y-a-las-tecnologicas"
         }
       ]
     },
@@ -34,16 +28,16 @@
       "emoji": "🇨🇱",
       "noticias": [
         {
-          "titular": "El Banco Central evaluará la TPM reunión a reunión por el shock del petróleo",
-          "resumen": "La inflación tocó 2,4% en febrero, pero el alza internacional de combustibles presiona los precios. El Banco Central decidirá el rumbo de la tasa caso a caso. La reciente baja del crudo tras el acuerdo en Ormuz alivia parte de ese riesgo inflacionario.",
-          "fuente": "Banco Central",
-          "url": "https://www.bcentral.cl/en/areas/monetary-politics/monetary-policy-report-ipom"
+          "titular": "El Banco Central decide hoy la TPM: el comunicado sale a las 18:00",
+          "resumen": "El Banco Central de Chile define hoy 16 de junio su Tasa de Política Monetaria, con anuncio a las 18:00 horas. El IPC de mayo fue favorable: el shock de los combustibles tuvo una propagación acotada, dando margen a la autoridad monetaria.",
+          "fuente": "Bloomberg Línea",
+          "url": "https://www.bloomberglinea.com/latinoamerica/chile/inflacion-en-chile-expertos-ven-favorable-el-ipc-de-mayo-para-la-politica-monetaria/"
         },
         {
-          "titular": "El crecimiento de Chile será menor en 2026 por el nuevo escenario externo",
-          "resumen": "Tras cerrar 2025 con un PIB de 2,5%, la actividad crecería menos este año por el contexto internacional, el menor gasto fiscal y el débil desempeño minero. El peso revirtió casi toda su apreciación de inicios de año.",
-          "fuente": "Banco Central",
-          "url": "https://www.bcentral.cl/en/areas/monetary-politics/monetary-policy-report-ipom"
+          "titular": "El IPC de mayo refuerza la convergencia de la inflación a la meta",
+          "resumen": "Analistas valoran el dato de mayo: la inflación ya había convergido a la meta a inicios de 2026 (2,4% en febrero). El principal riesgo es el dólar, que al subir encarece los bienes importados y presiona los precios internos.",
+          "fuente": "Bloomberg Línea",
+          "url": "https://www.bloomberglinea.com/latinoamerica/chile/inflacion-en-chile-expertos-ven-favorable-el-ipc-de-mayo-para-la-politica-monetaria/"
         }
       ]
     },
@@ -72,16 +66,16 @@
       "emoji": "🏛️",
       "noticias": [
         {
-          "titular": "La megarreforma de Kast ingresa al Senado con suma urgencia",
-          "resumen": "El gobierno presentó una megarreforma que el Congreso debe aprobar o rechazar en bloque, con plazo de 15 días hábiles. La oposición acusa que favorece a grandes empresas con rebajas de impuestos mientras recorta financiamiento para gasto social, salud y educación.",
-          "fuente": "Prensa Latina",
-          "url": "https://www.prensa-latina.cu/2026/06/02/controvertida-megarreforma-de-kast-ingresa-al-senado-de-chile/"
+          "titular": "Kast emplaza al Senado por su megarreforma: \"La nación votó por este proyecto\"",
+          "resumen": "El Presidente defendió su megarreforma de reconstrucción, de casi 50 artículos, que baja el impuesto corporativo de 27% a 23% y agiliza la permisología. Kast prevé que el Senado la apruebe en julio, más tarde de lo que apostaba inicialmente.",
+          "fuente": "Cooperativa",
+          "url": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/presidente-kast-emplazo-al-senado-por-megarreforma-la-nacion-voto-por/2026-06-08/105120.html"
         },
         {
-          "titular": "Cuenta Pública: Kast impulsa Transparencia 2.0 y un plan educativo",
-          "resumen": "En su Cuenta Pública 2026, Kast presentó la reforma Transparencia 2.0 para modernizar el acceso a la información pública y la estrategia \"Chile Aprende y Avanza\" en lectura, escritura y matemática, bajo el lema de levantar al país desde la emergencia.",
-          "fuente": "Prensa Presidencia",
-          "url": "https://prensa.presidencia.cl/comunicado.aspx?id=330105"
+          "titular": "La oposición se cuadra para rechazar la megarreforma en el Senado",
+          "resumen": "El PS dio un \"portazo\" a la reforma y asegura que hay consenso desde la DC hasta el PC para rechazar la idea de legislar. Con un Senado en virtual empate, el gobierno deberá negociar artículo por artículo para sacarla adelante.",
+          "fuente": "Cooperativa",
+          "url": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/ps-da-portazo-a-megarreforma-en-el-senado-hay-consenso-desde-el-pc/2026-05-31/135932.html"
         }
       ]
     },
